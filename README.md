@@ -11,4 +11,4 @@ Firebase:
   -onValue
   -snapshot
 
-  Please take a look at my app by clicking the following link: 
+  Please take a look at my app by clicking the following link: https://precious-sable-31c759.netlify.app/
