@@ -12,9 +12,9 @@ Firebase:
     -snapshot
 
 I also learned a few other things outside of my focus on Firebase which was:
-    -Using user-select to prevent users from unintentionally selecting parts of the app
-    -Adding a Favicon to my app using favicon.io
-    -Using and editing parts of the Web Application Manifest file 
+        -Using user-select to prevent users from unintentionally selecting parts of the app
+        -Adding a Favicon to my app using favicon.io
+        -Using and editing parts of the Web Application Manifest file 
 
 
   
