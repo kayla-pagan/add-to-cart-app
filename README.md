@@ -11,4 +11,11 @@ Firebase:
     -onValue
     -snapshot
 
-  Please take a look at my app by clicking the following link: https://precious-sable-31c759.netlify.app/
+I also learned a few other things outside of my focus on Firebase which was:
+    -Using user-select to prevent users from unintentionally selecting parts of the app
+    -Adding a Favicon to my app using favicon.io
+    -Using and editing parts of the Web Application Manifest file 
+
+
+  
+Please take a look at my app by clicking the following link: https://precious-sable-31c759.netlify.app/
